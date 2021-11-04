@@ -16,6 +16,7 @@ Download from google drive using the browser.
 - [Wiki](https://drive.google.com/file/d/1q_cjjeCOHElnRj9xqcZN9UUl8_GugDD3/view?usp=sharing)
 
 -------------------------------------------------
+| Type           | multi-view    | multimodal   |
 | No.            | Caltech-101-7 | Wiki         |
 |----------------|---------------|--------------|
 | 1              | Gabor(48)     | SIFT(128)    |
@@ -41,7 +42,7 @@ List of features:
 
 
 
-###About the data format
+### manifolds of different modelites (views)
 
 The 3-D manifold learned by Laplacian Eigenmap (LE) algorithm are depicted  for two type of datasets:
 
