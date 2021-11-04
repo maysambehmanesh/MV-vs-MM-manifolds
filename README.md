@@ -1,5 +1,6 @@
 # MV-vs-MM-manifols
-3-dimensional manifold for multi-view data vs. multimodal ones
+
+3-D manifold for multi-view data vs. multimodal ones
 
 
 
@@ -15,7 +16,6 @@ Wiki:  + https://drive.google.com/file/d/1q_cjjeCOHElnRj9xqcZN9UUl8_GugDD3/view?
 + 
 
 -------------------------------------------------
-| Type           | multi-vew     | multimodal   |
 | No.            | Caltech-101-7 | Wiki         |
 |----------------|---------------|--------------|
 | 1              | Gabor(48)     | SIFT(128)    |
@@ -24,7 +24,6 @@ Wiki:  + https://drive.google.com/file/d/1q_cjjeCOHElnRj9xqcZN9UUl8_GugDD3/view?
 | 4              | HOG(1984)     |              |
 | 5              | GIST(512)     |              |
 | 6              | LBP(928)      |              |
-|----------------|---------------|--------------|
 | num of data    | 1474          | 2866         |
 | num of classes | 7             | 10           |
 -------------------------------------------------
