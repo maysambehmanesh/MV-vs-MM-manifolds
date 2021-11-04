@@ -46,11 +46,11 @@ List of features:
 
 The 3-D manifold learned by Laplacian Eigenmap (LE) algorithm are depicted  for two type of datasets:
 
-1) The 3-D manifold for 7 views of Caltech-101-7 dataset:
+1) The 3-D manifold of 7 views of Caltech-101-7 dataset:
 
 ![multiview](https://user-images.githubusercontent.com/77163765/140286568-3baa7e57-f385-4bcb-b228-85f7d0ff9a6d.jpg)
 
 
-2)  The 3-D manifold for 2 modalities of Wiki dataset:
+2)  The 3-D manifold of 2 modalities of Wiki dataset:
 
 ![multimodal](https://user-images.githubusercontent.com/77163765/140286278-5859ff03-1acb-498f-82c0-7f75d8ab2c45.JPG)
