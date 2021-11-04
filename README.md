@@ -11,15 +11,15 @@ This repository contains the data that is used in the following paper.
 
 Download from google drive using the browser.
 
-Caltech-101-7: + https://drive.google.com/file/d/1wKGCY-7gphO1qbR8owjMSIXJqzNKRfMQ/view?usp=sharing
-Wiki:  + https://drive.google.com/file/d/1q_cjjeCOHElnRj9xqcZN9UUl8_GugDD3/view?usp=sharing
-+ 
+
+- [Caltech-101-7]( https://drive.google.com/file/d/1wKGCY-7gphO1qbR8owjMSIXJqzNKRfMQ/view?usp=sharing)
+- [Wiki](https://drive.google.com/file/d/1q_cjjeCOHElnRj9xqcZN9UUl8_GugDD3/view?usp=sharing)
 
 -------------------------------------------------
 | No.            | Caltech-101-7 | Wiki         |
 |----------------|---------------|--------------|
 | 1              | Gabor(48)     | SIFT(128)    |
-| 2              | WM(40)        |              |
+| 2              | WM(40)        | LDA(10)      |
 | 3              | CENTRIST(254) |              |
 | 4              | HOG(1984)     |              |
 | 5              | GIST(512)     |              |
@@ -53,7 +53,3 @@ The 3-D manifold learned by Laplacian Eigenmap (LE) algorithm are depicted  for 
 2)  The 3-D manifold for 2 modalities of Wiki dataset:
 
 ![multimodal](https://user-images.githubusercontent.com/77163765/140286278-5859ff03-1acb-498f-82c0-7f75d8ab2c45.JPG)
-
-
-)
-
